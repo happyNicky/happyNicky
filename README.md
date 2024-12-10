@@ -7,10 +7,6 @@
 <p>
 Hi there! 👋 I'm Naol Robe, a passionate and dedicated <strong>Computer Science major</strong> who loves diving deep into the world of technology and problem-solving. I have a strong enthusiasm for <strong>programming</strong> and a natural curiosity for how things work under the hood. My journey in computer science has been fueled by my desire to create impactful solutions and innovative applications.
 </p>
-
-Database Management:</strong> SQL</li>
-</ul>
-
 ---
 
 
