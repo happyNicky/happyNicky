@@ -50,3 +50,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/HappyNicky/HappyNicky/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/HappyNicky/HappyNicky/output/snake.svg)
+
